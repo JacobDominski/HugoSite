@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Portfolio Website</title>
-    <link>example.org/tags/</link>
+    <link>jacobdominski.netlify.app/tags/</link>
     <description>Recent content in Tags on Portfolio Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="jacobdominski.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JavaScript</title>
-      <link>example.org/tags/javascript/</link>
+      <link>jacobdominski.netlify.app/tags/javascript/</link>
       <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>example.org/tags/javascript/</guid>
+      <guid>jacobdominski.netlify.app/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mobile App Development</title>
-      <link>example.org/tags/mobile-app-development/</link>
+      <link>jacobdominski.netlify.app/tags/mobile-app-development/</link>
       <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>example.org/tags/mobile-app-development/</guid>
+      <guid>jacobdominski.netlify.app/tags/mobile-app-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>React Native</title>
-      <link>example.org/tags/react-native/</link>
+      <link>jacobdominski.netlify.app/tags/react-native/</link>
       <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>example.org/tags/react-native/</guid>
+      <guid>jacobdominski.netlify.app/tags/react-native/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C/C&#43;&#43;</title>
-      <link>example.org/tags/c/c&#43;&#43;/</link>
+      <link>jacobdominski.netlify.app/tags/c/c&#43;&#43;/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>example.org/tags/c/c&#43;&#43;/</guid>
+      <guid>jacobdominski.netlify.app/tags/c/c&#43;&#43;/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Embedded Systems</title>
-      <link>example.org/tags/embedded-systems/</link>
+      <link>jacobdominski.netlify.app/tags/embedded-systems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>example.org/tags/embedded-systems/</guid>
+      <guid>jacobdominski.netlify.app/tags/embedded-systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software Development</title>
-      <link>example.org/tags/software-development/</link>
+      <link>jacobdominski.netlify.app/tags/software-development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>example.org/tags/software-development/</guid>
+      <guid>jacobdominski.netlify.app/tags/software-development/</guid>
       <description></description>
     </item>
     
