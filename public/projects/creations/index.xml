@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Creations on Portfolio Website</title>
+    <link>example.org/projects/creations/</link>
+    <description>Recent content in Creations on Portfolio Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="example.org/projects/creations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HVAC Proposal App</title>
+      <link>example.org/projects/creations/hvac-proposal/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>example.org/projects/creations/hvac-proposal/</guid>
+      <description>This is a mobile app using React Native to automate the proposal process for my client&amp;rsquo;s company. HVAC Proposals gives the technician the ability to create a proposal while in front of the customer which will ultimately increase sales opportunities. The technician will be able to do everything from the app including entering information on which type of system is needed, what they plan to do, and any additional add ons the customer is interested in.</description>
+    </item>
+    
+    <item>
+      <title>Dungeon Crawler</title>
+      <link>example.org/projects/creations/dungeon-crawler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>example.org/projects/creations/dungeon-crawler/</guid>
+      <description>Dungeon Crawler is a console game written in C++ that mimics a Dungeons and Dragons style game. The objective of the game is to navigate your way through the dungeon by fighting enemies, and collecting items to use until you make your way out.There&amp;rsquo;s a lot of features in the game like a shop to buy and sell items, an inventory system to hold all your items, and a command system that will let the player do a variety of actions.</description>
+    </item>
+    
+    <item>
+      <title>TimeZone</title>
+      <link>example.org/projects/creations/time-zone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>example.org/projects/creations/time-zone/</guid>
+      <description>TimeZone is a mobile application that was built with React Native. The app was made for a coding competition where I won First Place. The app is designed to show you the time of different countries and cities accross the globe. Check out the article here: https://www.uattech.com/uat-holds-virtual-app-it-up-contest</description>
+    </item>
+    
+    <item>
+      <title>UAT Space Project</title>
+      <link>example.org/projects/creations/space-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>example.org/projects/creations/space-project/</guid>
+      <description>The Space Project was a group project at UAT where a team and I developed a payload to collect data in the atmosphere. My job was to construct the flight computer. The flight computer consisted of three layers: the sensors, printable circuit board, and the micro controller. I also wrote the software that would let the electronics talk to each other and send data to a micro SD card.</description>
+    </item>
+    
+  </channel>
+</rss>
