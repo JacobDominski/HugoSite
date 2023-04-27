@@ -1,13 +1,19 @@
 ---
-title: "Projects"
+title: Creations
+date: 2023-04-27
+link: Not applicable
+description: Not applicable
+weight: 10
 sitemap:
-  priority : 0.9
+  priority: 0.5
+  weight: 0.8
 ---
 <!--
 
-This page represents the landing page for "projects" section. It is also shown under the homepage header for "projects". It should be therefore relatively short and sweet.
+This page represents the landing page for "creations" section. It is also shown under the homepage header for "creations". It should be therefore relatively short and sweet.
 
-IN the dfault theme, "projects" is divided among "Creations" you authored and "contributions" made to others projects.
+\-->
 
--->
-<p>This section contains projects <a href="/projects/creations">created</a> and <a href="/projects/contributions">contributed</a> to by Eddie.  Everything listed is an open source effort, the distinction is only my role as owner or contributor.</p>
+
+
+<p>A collection of projects authored by Jacob Dominski, and likely shared out with the community as an open source project.</p>
