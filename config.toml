@@ -15,6 +15,7 @@ firstName = "Jacob"
 lastName = "Dominski"
 phone = "1-480-440-9135"
 profileImage = "img/profilepic.jpg"
+showCertifications = false
 showEducation = true
 showExperience = true
 showOpenSource = false
@@ -22,6 +23,7 @@ showProjects = true
 showPublications = false
 showQr = false
 showSkills = true
+showSocializations = true
 
 
 [[params.handles]]
