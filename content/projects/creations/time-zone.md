@@ -9,6 +9,6 @@
   "featured":true
 }
 
-![TimeZone home screen](img/TimeZone.png "TimeZone home screen")
+![TimeZone home screen]({{ .Site.BaseURL }}img/TimeZone.png "TimeZone home screen")
 
 TimeZone is a mobile application that was built with React Native. The app was made for a coding competition where I won First Place. The app is designed to show you the time of different countries and cities accross the globe. Check out the article here: <a>https://www.uattech.com/uat-holds-virtual-app-it-up-contest</a>
